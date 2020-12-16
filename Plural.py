@@ -1,0 +1,6 @@
+def plural(n):
+    if n == -1 or n == 1:
+        return False
+    else:
+        return True
+    return
